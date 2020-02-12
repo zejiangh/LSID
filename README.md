@@ -21,5 +21,7 @@ test_Sony.py --model ./result_sony/model_99.pl --gpu 0
 python metrics.py --imgdir ./result_Sony/eval
 ```
 
+The pretrained model has been released in ./baseline
+
 ### Todo list
 
