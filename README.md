@@ -25,7 +25,7 @@ The pretrained model has been released in [here](https://drive.google.com/file/d
 
 Dataset | PSNR | SSIM | Epoch
 :----------------:|:----------------:|:----------------:|:----------------
-Sony | 24.94 | 0.704 | 200
+Sony | 24.94 | 0.704 | 100
 
 ### Todo list
 1. Pubish our pruned model. More specifically, the pruned model will be funetuned for only 100 epochs as well.
