@@ -20,3 +20,6 @@ test_Sony.py --model ./result_sony/model_99.pl --gpu 0
 ```Shell
 python metrics.py --imgdir ./result_Sony/eval
 ```
+
+### Todo list
+
