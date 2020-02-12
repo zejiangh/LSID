@@ -21,7 +21,9 @@ test_Sony.py --model ./result_sony/model_99.pl --gpu 0
 python metrics.py --imgdir ./result_Sony/eval
 ```
 
-The pretrained model has been released in [here](https://drive.google.com/file/d/1Vjop6FnQ79ngJQORHqUUDZtiYXxDicRR/view?usp=sharing). The default training epochs reported in the paper is 2000. This would take more than 5 days on a single Tesla P100 GPU. Given limited GPU resources at hand, the released pretrained model in this repo is trained for 100 epochs only.
+The pretrained model has been released in [here](https://drive.google.com/file/d/1Vjop6FnQ79ngJQORHqUUDZtiYXxDicRR/view?usp=sharing). The default training epochs reported in the paper is 2000. This would take more than 5 days on a single Tesla P100 GPU. Given limited GPU resources at hand, the released pretrained model in this repo is trained for 100 epochs only. The averaged PSNR and SSIM of the 100-epoch model is reported below:
+
+
 
 ### Todo list
 1. Pubish our pruned model. More specifically, the pruned model will be funetuned for only 100 epochs as well.
