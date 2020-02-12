@@ -21,7 +21,7 @@ test_Sony.py --model ./result_sony/model_99.pl --gpu 0
 python metrics.py --imgdir ./result_Sony/eval
 ```
 
-The pretrained model has been released in './baseline'
+The pretrained model has been released in `./baseline`. The default training epochs reported in the paper is 2000. Given limited GPU resources at hand, the released pretrained model in this repo is trained for 100 epochs only.
 
 ### Todo list
 
