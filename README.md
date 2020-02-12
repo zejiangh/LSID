@@ -25,3 +25,4 @@ The pretrained model has been released in `./baseline`. The default training epo
 
 ### Todo list
 1. Pubish our pruned model. More specifically, the pruned model will be funetuned for only 100 epochs as well.
+2. Release our pruning code, so that all results can be reproduced by this repo.
