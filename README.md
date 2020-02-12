@@ -1,6 +1,6 @@
 # Learning to See in the Dark
 
-In this repository, we reimplement the algorithm in paper "Learning to See in the Dark". The code is in parallel to the original Tensorflow implementation provided by the authors.
+In this repository, we reimplement the algorithm in paper "Learning to See in the Dark" in PyTorch. The code is in parallel to the original Tensorflow implementation provided by the authors.
 
 ### Requirements
 1. Platform: PyTorch-0.4.1, Scipy, Numpy, Rawpy
