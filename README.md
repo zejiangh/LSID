@@ -26,7 +26,7 @@ The pretrained model has been released in [here](https://drive.google.com/file/d
 Model | Dataset | PSNR | SSIM | Epoch | FLOPs
 :----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------
 Before pruning| Sony | 24.94 | 0.704 | 100 |?
-After Pruning | Sony | 26.?? | 0.??? | 100 |?
+After Pruning | Sony | 26.35 | 0.756 | 100 |?
 
 ### Todo list
 1. Pubish our pruned model. More specifically, the pruned model will be funetuned for only 100 epochs as well.
